@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultipleChoiceProxy.iml" filepath="$PROJECT_DIR$/MultipleChoiceProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleDemo/MultipleDemo.iml" filepath="$PROJECT_DIR$/MultipleDemo/MultipleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multichoicelibrary/multichoicelibrary.iml" filepath="$PROJECT_DIR$/multichoicelibrary/multichoicelibrary.iml" />
+    </modules>
+  </component>
+</project>

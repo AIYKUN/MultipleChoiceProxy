@@ -1,0 +1,11 @@
+<resources>
+    <style name="MultiChoice_Style_check_box">
+        <item name="android:layout_marginRight">1dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:textColor">#555555</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:visibility">visible</item>
+    </style>
+</resources>
